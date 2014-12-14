@@ -5,6 +5,11 @@
 * [https://www.facebook.com/events/383412551783815/](https://www.facebook.com/events/383412551783815/)
 * [http://www.meetup.com/Codeaholics/events/218751388/](http://www.meetup.com/Codeaholics/events/218751388/)
 
+## Projects:
+
+* [https://github.com/3dd13/myo-steam-fight-the-dragon](https://github.com/3dd13/myo-steam-fight-the-dragon)
+* [https://github.com/3dd13/myo-webpage-canvas-palm-drawing](https://github.com/3dd13/myo-webpage-canvas-palm-drawing)
+
 ## references:
 
 
