@@ -22,6 +22,8 @@ also have a look at the available SDK wrapper:
 
 ### Myo Script Tutorial
 
+with Myo scripting, you can enable existing applications with Myo gesture control
+
 * [https://www.thalmic.com/blog/getting-started-myo-scripts-part-1/](https://www.thalmic.com/blog/getting-started-myo-scripts-part-1/)
 * [https://www.thalmic.com/blog/getting-started-myo-scripts-part-2/](https://www.thalmic.com/blog/getting-started-myo-scripts-part-2/)
 * [https://www.thalmic.com/blog/getting-started-myo-scripts-part-3/](https://www.thalmic.com/blog/getting-started-myo-scripts-part-3/)
