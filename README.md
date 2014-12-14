@@ -2,8 +2,8 @@
 
 ## event pages:
 
-[https://www.facebook.com/events/383412551783815/](https://www.facebook.com/events/383412551783815/)
-[http://www.meetup.com/Codeaholics/events/218751388/](http://www.meetup.com/Codeaholics/events/218751388/)
+* [https://www.facebook.com/events/383412551783815/](https://www.facebook.com/events/383412551783815/)
+* [http://www.meetup.com/Codeaholics/events/218751388/](http://www.meetup.com/Codeaholics/events/218751388/)
 
 ## references:
 
